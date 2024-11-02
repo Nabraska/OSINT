@@ -2,6 +2,8 @@
 
 💪 Remember, the time you spend solving challenges is what really matters—keep up the great work!
 
+Start here : umctf.com
+
 🕵️‍♀️ What is IntelHunt?
 
 IntelHunt is a beginner-friendly Capture the Flag (CTF) event, tailored for those passionate about or curious to dive into the world of OSINT (Open Source Intelligence).
