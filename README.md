@@ -4,6 +4,8 @@ Welcome to the ultimate OSINT resource! 🌐
 This repository is packed with write-ups, hints, and solutions for IntelHunt’s beginner-friendly challenges,
 helping you level up your Open Source Intelligence skills.
 
+Challenges are here : umctf.com
+
 What’s OSINT?
 
 💡 Open Source Intelligence (OSINT) is the art of gathering information from publicly available sources—like social media,
